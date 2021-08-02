@@ -1,2 +1,4 @@
 # distillation-simple
-# simple distillation with pytorch in mnist
+# Pytorh
+# Dataset：mnist
+# 注释很清晰
